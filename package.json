@@ -1,6 +1,6 @@
 {
-  "name": "vue-admin-template",
-  "version": "4.4.0",
+  "name": "app-demo",
+  "version": "0.0.1",
   "description": "A vue admin template with Element UI & axios & iconfont & permission control & lint",
   "author": "Pan <panfree23@gmail.com>",
   "scripts": {
@@ -45,6 +45,7 @@
     "less": "^3.11.3",
     "less-loader": "^6.2.0",
     "mockjs": "1.0.1-beta3",
+    "postcss-px-to-viewport": "^1.1.1",
     "runjs": "4.3.2",
     "sass": "1.26.8",
     "sass-loader": "8.0.2",
